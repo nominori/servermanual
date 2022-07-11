@@ -3,14 +3,12 @@
 
 Щоб читати мануал відкрийте `Server Manual.pdf`
 
-Для встановлення PuTTy `putty-64bit-0.77-installer.msi`
-
 Код бота для прикладу `main.py` (якщо захочете скопіювати код, не забудьте вставити токен свого бота)
 
 Посилання на amazon aws -
 - https://aws.amazon.com/
 
-Якщо ви хочете скачати PuTTy не з мого файлу а з офіційного сайту -
+Скачати PuTTy -
 - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 Усі команди для PuTTy -
