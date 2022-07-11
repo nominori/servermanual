@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types  # Імпорт потрібних модулів
 
-TOKEN = '5471096189:AAFPl_6txNqpqNGAQY_HHODOAaNJ1Fxdbt0'  # Токен вашого бота який ви отримали від BotFather
+TOKEN = ''  # Токен вашого бота який ви отримали від BotFather
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
